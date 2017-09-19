@@ -1,0 +1,6 @@
+entity,type,agreedFx,currency,instructionDate,settlementDate,units,price
+foo,B,0.5,SGP,01-Jan-16,02-Jan-16,200,100.25
+bar,S,0.22,AED,05-Jan-16,07-Jan-16,450,150.5
+test1,B,0.1,SAR,02-Jan-16,04-Jan-16,250,125
+test2,S,0.2,ABC,03-Jan-16,04-Jan-16,150,100
+test3,A,0.2,XYZ,03-Jan-16,04-Jan-16,150,100
