@@ -1,0 +1,14 @@
+Notes:
+===========
+
+1.The solution can be run with maven or as a standalone
+2.Used super csv Api, which is in lib folder
+3.Used google guava, which is also in lib folder
+4.Run "mvn install" first
+5.Then run program with data.csv file path.
+
+Assumption:
+=============
+1. Assumed the settlement date always comes in the format dd-mmm-yyyy
+2. Assumed the Buy/Sell only has either B or S.
+3. The data is assumed in the same order entity,type(Replace of Buy/Sell),agreedFx,currency,instructionDate,settlementDate,units,price 
